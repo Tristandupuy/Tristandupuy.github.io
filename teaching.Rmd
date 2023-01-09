@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+**Mathematics for**, Summer 2022, Columbia University, Master in (SIPA), Prof. 
+
+**Macroeconomics I**, Fall 2020, Columbia University, Master in (SIPA), Prof. Tamrat Gashaw
+
+**Climate Change Policy**, Spring 2021, Columbia University, Master in (SIPA), Prof. Scott Barrett
+
+**Economics and Globalization**, Spring 2019, Sciences-Po, Master in International Economic Policy (PSIA), Prof. Giorgio Barba Navaretti
+
+**Economics and Politics of Global Trade and Money**, Fall 2018, Sciences-Po, Master in International Economic Policy (PSIA), Prof. Jean Pierre Landau
+
+

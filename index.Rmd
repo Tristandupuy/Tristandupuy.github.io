@@ -1,0 +1,24 @@
+---
+title: "Tristan du Puy"
+image: "tristan.png"
+links:
+  - label: Twitter
+    url: "https://twitter.com/PuyTristan"
+  - label: GitHub
+    url: "https://github.com/Tristandupuy"
+  - label: Email
+    url: "mailto:td2631@columbia.edu"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+ 
+I am a fourth-year PhD Candidate in Sustainable Development at Columbia University.
+
+My research stands at the intersection of environmental economics, empirical industrial organization and labor economics. 
+
+Before joining Columbia, I earned master degrees in Quantitative Economics from the Paris School of Economics, and in International Relations from Sciences-Po - Paris, as well as bachelor degrees in Political Sciences (Sciences-Po), Law (Paris 1 - Sorbonne), Philosophy (Paris 10 - Nanterre), and interrupted a bachelor in Pure Mathematics during its last year at Paris 6 - UPMC. 
+
+I also worked for a public policy consulting cabinet in Brussels, Belgium - specifically on European Union policy for the year 2013-2014, and worked one semester for the French Treasury's office within the French Embassy in Bucharest, Romania. 
+

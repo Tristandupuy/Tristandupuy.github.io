@@ -1,0 +1,21 @@
+---
+title: "Research"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+# Work in Progress
+
+**Competition, Productivity and Pollution in the Agricultural Industry: A Case-Study of European Agricultural Subsidies**
+
+I leverage the 1992 pro-competitive reform of the European Common Agricultural Policy (CAP) to study how decreases in governmental support increased competition on the market, as well as farm productivity. I then decompose these increases between selection and treatment channels, as well as across inputs. Finally, I study how these increases were associated with increased usages of polluting inputs, such as fertilizers and pesticides. 
+
+
+**The Consequences of Local Crop Diversity Declines in the USA: 1840-2012**, joint with Marguerite Obolensky
+
+We develop a new method to link the US Agricultural Census over time, and use it to document the decline in local crop diversity in the US. We then use the arrival of the rail, as an exogenous shock to diversity, and leverage it to study the impact of crop diversity on the spread of major pest events during the 20th century, specifically the cotton boll weevil and the imported red fire ant. 
+
+
+**Climate Damages Net of Adaptation: tests and alternatives for the empirical validity of the envelope theorem**, joint with Jeffrey Shrader
+
+We test for the applicability of the envelope theorem in climate damages studies, and develop alternative methods to estimate these damages.
