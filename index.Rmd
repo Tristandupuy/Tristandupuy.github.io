@@ -2,8 +2,6 @@
 title: "Tristan du Puy"
 image: "tristan.png"
 links:
-  - label: Twitter
-    url: "https://twitter.com/PuyTristan"
   - label: GitHub
     url: "https://github.com/Tristandupuy"
   - label: Email
