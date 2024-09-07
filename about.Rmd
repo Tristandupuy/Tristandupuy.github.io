@@ -6,13 +6,8 @@ output: distill::distill_article
 
 # Work in Progress
 
-**Competition, Productivity and Pollution in the Agricultural Industry: A Case-Study of European Agricultural Subsidies**
+**Measuring the Effect of of Agricultural Subsidies on Market Structure, Productivity, and Pollution**
 
+**Local Crop Species and Pest Diffusion: Evidence from the US Census of Agriculture**, joint with Marguerite Obolensky
 
-
-**The Consequences of Local Crop Diversity Declines in the USA: 1840-2012**, joint with Marguerite Obolensky
-
-
-
-**Climate Damages Net of Adaptation: tests and alternatives for the empirical validity of the envelope theorem**, joint with Jeffrey Shrader
-
+**Costs of Climate Adaptation: Evidence from French Agriculture**, joint with Jeffrey Shrader

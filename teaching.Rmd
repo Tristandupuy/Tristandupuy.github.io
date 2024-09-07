@@ -4,14 +4,16 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-**Mathematics for Economists** (Tutor), Summer 2022, Columbia University, Master in Economic Policy Management (SIPA), Prof. Emanuele Gerratana
+**Economic Development** (TA), Spring 2025, Columbia University, Master in Economic Policy Management (SIPA), Prof. Eric Verhoogen
 
-**Macroeconomics I** (TA), Fall 2020, Columbia University, Master in (SIPA) Economic Policy Management, Prof. Tamrat Gashaw
+**Mathematics for Economists** (Tutor), Summer 2022, Columbia University, Master in Economic Policy Management (SIPA), Prof. Emanuele Gerratana
 
 **Climate Change Policy** (TA), Spring 2021, Columbia University, Master in Environmental Science and Policy (SIPA), Prof. Scott Barrett
 
-**Economics and Globalization** (TA), Spring 2019, Sciences-Po, Master in International Economic Policy (PSIA), Prof. Giorgio Barba Navaretti
+**Macroeconomics I** (TA), Fall 2020, Columbia University, Master in Economic Policy Management (SIPA), Prof. Tamrat Gashaw
 
-**Economics and Politics of Global Trade and Money** (TA), Fall 2018, Sciences-Po, Master in International Economic Policy (PSIA), Prof. Jean Pierre Landau
+**Economics and Globalization** (TA), Spring 2019, Sciences-Po Paris, Master in International Economic Policy (PSIA), Prof. Giorgio Barba Navaretti
+
+**Economics and Politics of Global Trade and Money** (TA), Fall 2018, Sciences-Po Paris, Master in International Economic Policy (PSIA), Prof. Jean Pierre Landau
 
 
