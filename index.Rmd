@@ -1,5 +1,5 @@
 ---
-title: "Tristan du Puy"
+title: "Tristan Du Puy"
 image: "tristan.png"
 links:
   - label: GitHub
