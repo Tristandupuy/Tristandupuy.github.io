@@ -10,7 +10,7 @@ output: distill::distill_article
 
 **Local Crop Species and Pest Diffusion: Evidence from the US Census of Agriculture**, joint with Marguerite Obolensky [[link](Crop_Diversity.pdf)]
 
-**Costs of Climate Adaptation: Evidence from French Agriculture**, joint with Jeffrey Shrader
+**Costs of Climate Adaptation: Evidence from French Agriculture**, joint with Jeffrey Shrader [[link](Costs_of_Adaptation_in_Agriculture.pdf)]
 
 # Work in Progress
 
