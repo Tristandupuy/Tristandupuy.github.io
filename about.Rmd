@@ -15,7 +15,3 @@ output: distill::distill_article
 # Work in Progress
 
 **Biases and Economic Consequences of Occupational Definitions: Evidence from O\*NET**, joint with Suresh Naidu and Gina Markov
-
-# Non-Academic
-
-Mimeo on the evolution of the EU Common Agricultural Policy [[link](CAP_subsidies.pdf)]
