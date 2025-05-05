@@ -12,7 +12,7 @@ site: distill::distill_website
 ---
 
  
-I am a sixth-year PhD Candidate in Sustainable Development at Columbia University, and a Research Fellow at the Columbia Center for Political Economy.
+I am a PhD Candidate in Sustainable Development at Columbia University. In 2026, I will join the Sciences Po Department of Economics as an Assistant Professor, following a one year postdoc at the Columbia University Center for Political Economy.
 
 My research stands at the intersection of environmental economics and empirical industrial organization, with a focus on firm dynamics and relations between productivity and sustainability.
 
