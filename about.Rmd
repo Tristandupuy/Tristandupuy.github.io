@@ -8,7 +8,8 @@ output: distill::distill_article
 
 **An Empirical Model of Agricultural Subsidies with Environmental Externalities** (*Job Market Paper*) [[link](tdupuy_JMP.pdf)]
 
-**Local Crop Diversity and Pest Diffusion: Evidence from the US Census of Agriculture**, joint with Marguerite Obolensky [[link](Crop_Diversity.pdf)]
+**Local Crop Diversity and Pest Diffusion: Evidence
+from the Boll Weevil**, joint with Marguerite Obolensky [[link](Crop_Diversity.pdf)]
 
 **Costs of Climate Adaptation: Evidence from French Agriculture**, joint with Jeffrey Shrader [[link](Costs_of_Adaptation_in_Agriculture.pdf)]
 
