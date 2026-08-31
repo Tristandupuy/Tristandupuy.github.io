@@ -6,7 +6,9 @@ output: distill::distill_article
 
 # Working Papers
 
-**Unintended Environmental Policies: The Impact of European Agricultural Subsidies on Pollution** (*Job Market Paper*) [[link](tdupuy_JMP.pdf)] (previously circulated as "An Empirical Model of Agricultural Subsidies with Environmental Externalities")
+**Unintended Environmental Policies: The Impact of European Agricultural Subsidies on Pollution** [[link](tdupuy_JMP.pdf)]
+
+-   Winner of the EARIE 2026 YEEA and Paul Geroski Prize
 
 **Local Crop Diversity and Pest Diffusion: Evidence from the Boll Weevil**, joint with Marguerite Obolensky [[link](Crop_Diversity.pdf)]
 
